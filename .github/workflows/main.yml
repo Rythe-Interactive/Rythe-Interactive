@@ -23,7 +23,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          debug: true
           user: Rythe-interactive
           template: classic
           base: header, activity, community, repositories, metadata
@@ -54,3 +53,4 @@ jobs:
           plugin_sponsors: yes
           plugin_sponsors_sections: goal, about
           plugin_traffic: yes
+          fhs: blah
