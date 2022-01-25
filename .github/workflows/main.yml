@@ -53,4 +53,3 @@ jobs:
           plugin_sponsors: yes
           plugin_sponsors_sections: goal, about
           plugin_traffic: yes
-          fhs: blah
