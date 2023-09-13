@@ -483,7 +483,7 @@
                 <div class="row fill-width">
                     <section class="sponsors">
                         <div class="markdown">
-                            <h1 id="who-are-we">Who are we?</h1>
+                            <h1>Who are we?</h1>
                             <p>Rythe-Interactive is an organization built by a group of passionate student developers, putting in their own spare time whenever we can. We wanted to learn more about engine development and were frustrated with the current availability of game engines in the market.</p>
                             <p>In order to find a market for our passion project we wanted our engine to deliver high performance on modern hardware as well as freedom to tackle things your own way. We wanted developers to work with different skill levels in order to provide a natural learning curve. And we wanted developers to have the power to solve problems themselves without frustration of hidden code.</p>
                             <p>Thus to accomplish all those goals we decided to build the engine as modular as possible, so that anyone could take our engine and expand it. We built in an ECS and an advanced scheduler to take full advantage of modern hardware. We are making C++ native scripting as easy as possible with the high level API, yet also provide low level API's as well. We are planning on adding C#, Lua, and visual scripting. And last but not least, the source code is fully accessible to anyone for free.</p>
@@ -492,7 +492,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 13 Sept 2023, 04:10:17 (timezone Europe/Amsterdam) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 13 Sept 2023, 05:04:55 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
