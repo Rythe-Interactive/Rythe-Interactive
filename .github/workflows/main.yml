@@ -49,7 +49,7 @@ jobs:
           plugin_repositories: yes
           plugin_repositories_affiliations: owner
           plugin_repositories_batch: 100
-          plugin_repositories_featured: rythe-interactive/Legion-Engine, rythe-interactive/Legion-LLRI
+          plugin_repositories_featured: rythe-interactive/Rythe-Engine, rythe-interactive/Rythe-LLRI, rythe-interactive/rythe-standard-library, rythe-interactive/rythe-build-system
           plugin_sponsors: yes
           plugin_sponsors_sections: goal, about
           plugin_traffic: yes
